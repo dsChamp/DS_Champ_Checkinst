@@ -7,4 +7,4 @@ Vladyslav Hnatiienko
 
 Bohdan Oliinyk
 
-Yaroshenko Oleksandr
+Oleksandr Yaroshenko 
